@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.splash.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "NoFireMixin",
+    "NoHurtMixin",
+    "NotificationMixin",
+    "PotionItemMixin",
+    "ItemMixin",
+    "ArmourHUDMixin",
+    "HealthMixin",
+    "NametagMixin",
+    "TitleMixin",
+    "HitboxMixin",
+    "TotemMixin",
+    "ExplosionMixin",
+    "MixinWorldRenderer",
+    "NotMixin",
+    "InventoryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
