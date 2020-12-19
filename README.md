@@ -1,2 +1,2 @@
 # Splash Client
-Splash Client is a Minecraft 1.16.4 fabric mod which aims to make pvp in newer versions much better. Originally this project was made for the Minecraft server purityvanilla.com, however it can be used on other servers for fun too.
+Splash Client is a Minecraft 1.16.4 fabric mod which aims to make pvp in newer versions much better. Originally this project was made for the Minecraft server purityvanilla.com, however it can be used on other servers for fun too. If you want to be able to run the client through Intellij and mess around with stuff (or even make updates to replace me, you can find the full file at https://www.dropbox.com/s/ha8rbqlh5vvdkv0/splash.zip?dl=0. Have fun.
